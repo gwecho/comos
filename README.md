@@ -1,4 +1,6 @@
-# comos
+# Comos
+Comos is alias of Sina CMS system
+
   search_proc
   
   """
